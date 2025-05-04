@@ -1,0 +1,7 @@
+module_config:
+  - path: modules/test-module-1
+    tags:
+      - 'single-module'
+  - path: modules/test-module-2
+    tags:
+      - 'has-submodules'
