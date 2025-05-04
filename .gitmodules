@@ -1,0 +1,9 @@
+[submodule "modules/test-module-1"]
+	path = modules/test-module-1
+	url = git@github.com:Geilokowski/geilorepo-test-module-1.git
+[submodule "modules/test-module-2"]
+	path = modules/test-module-2
+	url = git@github.com:Geilokowski/geilorepo-test-module-2.git
+[submodule "test-module-3"]
+	path = test-module-3
+	url = git@github.com:Geilokowski/geilorepo-test-module-3.git
