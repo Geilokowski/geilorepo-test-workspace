@@ -1,6 +1,7 @@
 module_config:
   - path: modules/test-module-1
     tags:
+      - 'pom'
       - 'single-module'
       - 'not-deeply-nested'
   - path: modules/test-module-2
